@@ -1,0 +1,11 @@
+C:\DataStruct\RopeLab\Trie.Tests\bin\Debug\Trie.Tests.dll
+C:\DataStruct\RopeLab\Trie.Tests\bin\Debug\Trie.Tests.pdb
+C:\DataStruct\RopeLab\Trie.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\DataStruct\RopeLab\Trie.Tests\bin\Debug\Trie.exe
+C:\DataStruct\RopeLab\Trie.Tests\bin\Debug\Trie.pdb
+C:\DataStruct\RopeLab\Trie.Tests\bin\Debug\Trie.exe.config
+C:\DataStruct\RopeLab\Trie.Tests\obj\Debug\Trie.Tests.csprojResolveAssemblyReference.cache
+C:\DataStruct\RopeLab\Trie.Tests\obj\Debug\Trie.Tests.csproj.CoreCompileInputs.cache
+C:\DataStruct\RopeLab\Trie.Tests\obj\Debug\Trie.Tests.csproj.CopyComplete
+C:\DataStruct\RopeLab\Trie.Tests\obj\Debug\Trie.Tests.dll
+C:\DataStruct\RopeLab\Trie.Tests\obj\Debug\Trie.Tests.pdb
